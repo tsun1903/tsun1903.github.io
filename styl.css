@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    text-align: center;   
+}
+#Blok1{
+    text-align: center;
+    font-size: 72;
+}
+#Blokl{
+    float: left;
+}
+#Blokp{
+    text-align: center;
+    font-size: 25;
+}
+#stopka{
+    text-align: right;
+    clear: both;
+}
